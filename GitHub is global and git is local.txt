@@ -1,0 +1,9 @@
+GitHub is global and git is local 
+
+if u have apache or server license 
+
+gitignore ke baar me padna hai 
+
+and we can allow user what they can see according to us
+
+then invite collaborations 
