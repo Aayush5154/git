@@ -10,3 +10,7 @@ then invite collaborations
 
 
 We are learning git 
+
+either u can do git clone in vs code 
+
+or in the 
