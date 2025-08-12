@@ -13,6 +13,10 @@ We are learning git
 
 either u can do git clone in vs code 
 
-or in the pulll
+or in the pulll use git pull in the terminal of the vs code 
 
 hi
+
+git branch b1 - for to create the branch b1
+
+git checkout b1 - to go in the brnach b1 
