@@ -7,3 +7,6 @@ gitignore ke baar me padna hai
 and we can allow user what they can see according to us
 
 then invite collaborations 
+
+
+We are learning git 
